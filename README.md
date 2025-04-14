@@ -18,7 +18,11 @@ The IT department has compiled a dataset with the following fields for each emai
 •	What are the most distinguishing features of phishing emails compared to safe emails?<br>
 •	Are there specific patterns (e.g., high number of links, urgent keywords) that correlate strongly with phishing attempts?<br>
 •	How can these insights inform the content and focus of staff awareness programs?<br>
-Key Business Metrics: False positive/negative rates if using these features for automated detection<br>
+### Key Business Metrics: False positive/negative rates if using these features for automated detection
+
+## Notes: 
+•	Dataset contains ~500,000 non-phishing ("safe") emails from the Enron Email Dataset and ~20,000 phishing and safe emails from the Phishing Email Dataset
+•	Source of dataset: <a href="https://www.kaggle.com/datasets/ethancratchley/email-phishing-dataset">Email Phishing Dataset</a>
 
 ## Analysis Approach
 ### 1. Data Exploration (SQL & Excel)<br>
