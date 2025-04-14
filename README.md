@@ -21,8 +21,8 @@ The IT department has compiled a dataset with the following fields for each emai
 ### Key Business Metrics: False positive/negative rates if using these features for automated detection
 
 ## Notes: 
-•	Dataset contains ~500,000 non-phishing ("safe") emails from the Enron Email Dataset and ~20,000 phishing and safe emails from the Phishing Email Dataset
-•	Source of dataset: <a href="https://www.kaggle.com/datasets/ethancratchley/email-phishing-dataset">Email Phishing Dataset</a>
+•	Dataset contains ~500,000 non-phishing ("safe") emails from the Enron Email Dataset and ~20,000 phishing and safe emails from the Phishing Email Dataset<br>
+•	Source of dataset: <a href="https://www.kaggle.com/datasets/ethancratchley/email-phishing-dataset">Email Phishing Dataset</a> by Ethan Cratchley<br>
 
 ## Analysis Approach
 ### 1. Data Exploration (SQL & Excel)<br>
